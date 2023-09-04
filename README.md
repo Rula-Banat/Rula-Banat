@@ -22,11 +22,11 @@ I'm Rula Hasan, a passionate Quality Assurance Automation Engineer.
 💼 **Projects:**
 - [Project 1: Almosafer Website Testing with Cypress](https://github.com/Rula-Banat/almosafer-testing)
   - Created automated test scripts for a travel and hotel booking website, ensuring seamless user experiences and bug-free transactions.
-<!--- [Project 2: "www.saucedemo.com" Testing with Selenium](link-to-repo)
-  - Leveraged Selenium for automated testing of saucedemo testing practice website.
-  -->
+- [Project 2: "www.saucedemo.com" Testing with Selenium](https://github.com/Rula-Banat/testing-project1)
+  - Leveraged Selenium for automated testing of www.saucedemo.com website.
+ 
 
-💻 **Tech Stack:** JavaScript, Java, HTML, CSS, PHP and more.
+💻 **Tech Stack:** JavaScript, Java, HTML, CSS, PHP, and more.
 
 🌟 **Philosophy:** 
 

@@ -24,6 +24,8 @@ I'm Rula Hasan, a passionate Quality Assurance Automation Engineer.
   - Created automated test scripts for a travel and hotel booking website, ensuring seamless user search experiences.
 - [Project 2: "www.saucedemo.com" Testing with Selenium](https://github.com/Rula-Banat/testing-project1)
   - Leveraged Selenium for automated testing of www.saucedemo.com (testing practice website).
+- [Project 3: Almosafer Website Testing with Selenium](https://github.com/Rula-Banat/Almosafer_Selenium)
+  - Created automated test scripts for a travel and hotel booking website, ensuring seamless user search experiences.
  
 
 💻 **Tech Stack:** JavaScript, Java, HTML, CSS, PHP, and more.
